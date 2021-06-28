@@ -1,0 +1,448 @@
+@media (max-width:1920px) {
+    .fixed_width {
+        width: 100%;
+    }
+    .about_tilte {
+        padding: 70px 0;
+    }
+    .service_title {
+        padding: 40px 0;
+    }
+}
+@media (max-width:1860px) {
+
+}
+@media (max-width:1500px) {
+    .service_type p {
+        font-size: 11px;
+    }
+
+    .about_item_left {
+        width: 50%;
+        padding: 30px;
+    }
+    .right_text {
+        padding-left: 15px;
+    }
+    .right_text p {
+        font-size: 14px;
+    }
+    .right_text h2 {
+        padding: 15px 0;
+    }
+    .right_text p {
+        font-size: 14px;
+        margin-right: 44px;
+    }
+
+}
+
+@media (max-width:1320px) {
+    .fixed_width {
+        width: 100%;
+    }
+    .main_slider_div {
+        padding: 110px;
+    }
+}
+
+@media (max-width:1450px) {
+    .service_title p {
+        color: gray;
+        width: 600px;
+        margin: auto;
+    }
+  
+}
+
+
+
+@media and all (min-width:576px) {
+    .fixed_width {
+        width: 100%;
+    }
+
+}
+@media (max-width:1282px){
+    /*  slidr resposive */
+    .fixed_width {
+        width: 100%;
+        margin: auto;
+        font-family: sans-serif;
+    }
+    .main_slider_div {
+        padding: 110px;
+    }
+    
+
+}
+
+@media (max-width:1174px) {
+    .float_left {
+        float: left;
+        width: 30%;
+    }
+    .float_right {
+        float: right;
+        width: 50%;
+    }
+    .float_right {
+        float: right;
+        width: 70%;
+    }
+    .menu_lt h2 {
+        font-size: 33px;
+        padding-left: 25px;
+    }
+    .menu_rt ul {
+        list-style: none;
+        text-align: right;
+    }
+    .menu_rt ul li a {
+        font-size: 25px;
+    }
+    .service_type {
+        width: 50%;
+        padding-bottom: 80px;
+    }
+    .service_type p {
+        width: 347px;
+        margin: auto;
+    }
+
+    .about_item_left {
+        width: 100%;
+        padding: 30px;
+    }
+    .float_right {
+        float: right;
+        width: 100%;
+    }
+   
+      
+}
+@media (max-width:1012px){
+    .slider_text h2 {
+        padding: 20px;
+        font-size: 60px;
+       
+    }
+
+}
+@media (max-width:1137px){
+    .menu_rt ul li a {
+        font-size: 22px;
+        padding: 11px 10px;
+    }
+  
+    .float_right {
+        float: right;
+        width: 100%;
+    }
+
+}
+@media (max-width:1062px){
+    .slider_text h2 {
+        padding: 14px;
+        font-size: 60px;
+    }
+
+}
+@media (max-width:1148px){
+    .  .float_right {
+        float: right;
+        width: 50%;
+    }
+
+}
+
+@media (max-width:1062px){
+    .fixed_width {
+        width: 100%;
+    }
+
+}
+@media (max-width:960px){
+    .about_tilte p {
+        width: 523px;
+        font-size: 11px;
+    }
+
+}
+@media (max-width:960px){
+    .contact_title p {
+        width: 670px;
+    }
+
+}
+
+@media (max-width:881px){
+    .slider_text h2 {
+        padding: 14px;
+        font-size: 44px;
+    }
+    .menu_rt ul li a {
+	font-size: 12px;
+	padding: 10px 5px;
+}
+}
+@media (max-width:685px){
+    .slider_text h2 {
+        padding: 14px;
+        font-size: 35px;
+    }
+    .slider_text h3 {
+        font-size: 15px;
+       
+    }
+}
+@media (max-width:766px){
+    .float_left {
+        width: 33.3%;
+    }
+    .contact_title p {
+        width: 500px;
+        font-size: 11px;
+    }
+    .float_left {
+        width: 100%;
+    }
+    .float_right {
+        float: right;
+        width: 100%;
+    }
+}
+@media (max-width:685px){
+    .slider_text h2 {
+        padding: 14px;
+        font-size: 30px;
+    }
+    .slider_text h3 {
+        font-size: 15px;
+       
+    }
+    .service_type {
+        width: 100%;
+        padding-bottom: 80px;
+    }
+    .about_tilte p {
+        width: 345px;
+        font-size: 11px;
+    }
+    
+}
+@media (max-width:635px){
+    .contact_title {
+        padding: 40px 0;
+    }
+    .float_right {
+        float: right;
+        width: 100%;
+    }
+ 
+    
+}
+
+@media (max-width:548px){
+    .slider_text h2 {
+        padding: 14px;
+        font-size: 30px;
+    }
+    .slider_text h3 {
+        font-size: 12px;
+       
+    }
+    .main_slider_div {
+        padding: 50px;
+    }
+    .slider_text a {
+        font-size: 16px;
+        padding: 10px;
+      
+    }
+    .about_tilte p {
+        width: 326px;
+        font-size: 12px;
+    }
+    .about_tilte h2 {
+        font-size: 40px;
+        padding: 15px;
+    }
+}
+@media (max-width:546px){
+    .about_tilte p {
+        width: 455px;
+        font-size: 11px;
+    }
+    .about_tilte p {
+        width: 335px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width:588px){
+   
+}
+
+
+@media (max-width:546px){
+    .service_title p {
+        width: 430px;
+    }
+    .service_title h2 {
+        font-size: 40px;
+    }
+}
+
+@media (max-width:505px){
+    .float_left {
+        margin-bottom: 45px;
+    }
+    .footer_top ul li a {
+     
+        padding: 18px;
+        font-size: 26px;
+    }
+}
+
+@media (max-width:1160px){
+    .menu_rt ul li a {
+        font-size: 12px;
+        padding: 11px 10px;
+    }
+    .menu_rt ul {
+        text-align: right;
+        padding-right: 10px;
+    }
+
+}
+
+@media (max-width:910px){
+    .menu_lt h2 {
+        font-size: 25px;
+        padding-left: 25px;
+    }
+
+}
+@media (max-width:722px){
+    .menu_rt ul li a {
+        font-size: 12px;
+        padding: 10px 6px;
+    }
+    .menu_lt h2 {
+        font-size: 20px;
+        padding-left: 15px;
+    }
+
+}
+@media (max-width:569px){
+    .float_left {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+    .float_right {
+        width: 100%;
+    }
+    .menu_rt ul {
+        text-align: center;
+        padding-right: 0;
+    }
+   
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width:1800px) {}
+@media (max-width:1700px) {}
+@media (max-width:1600px) {}
+@media (max-width:1500px) {
+  
+}
+@media (max-width:1400px) {
+    
+}
+@media (max-width:1300px) {
+   
+}
+@media (max-width:1200px) {
+  
+}
+@media (max-width:1100px) {  }
+@media (max-width:1000px) { 
+
+ 
+}
+@media (max-width:992px) {
+    
+}
+@media (max-width:899px) {}
+@media (max-width:760px) {}
+@media (max-width:699px) {}
+@media (max-width:599px) {}
+@media (max-width:576px) {}
+@media (max-width:499px) {}
+@media (max-width:399px) {} */

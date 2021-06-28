@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.fixed_width{
+    max-width: 1450px;
+    margin: auto;
+    font-family: sans-serif;
+}
+.text_center{
+    text-align: center;
+}
+.text_right{
+    text-align: right;
+}
+.text_left{
+    text-align-last: left;
+}
+.float_right{
+    float: right;
+}
+.float_left{
+    float: left;
+}
+img{
+    max-width: 100%;
+}
+/* <!-- header-section css start --> */
+.header_main_div{
+    background: #22c3a3;
+}
+.menu_div{}
+.menu_lt{}
+.menu_lt h2{
+   padding-top: 8px;
+   font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+}
+/* right side */
+.menu_rt{}
+.menu_rt ul{
+    list-style: none;
+
+}
+.menu_rt ul li{
+    display: inline-block;
+    
+}
+.menu_rt ul li a{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 16px;
+    transition: .5s;
+}
+.menu_rt ul li a:hover{
+    color: black;
+}
+/* <!-- header-section  css end--> */
+
+/* <!-- slider section start --> */
+.main_slider_div{
+    background: url(https://i.ibb.co/YNn1hN0/assfignmentj.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    /* background-attachment: fixed; */
+    padding:250px ;
+}
+.slider_text{
+    color: white;
+}
+.slider_text h2{
+    padding: 57px;
+    font-size: 66px;
+    font-family: arial;
+}
+.slider_text h3{
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: 300;
+    padding-bottom: 60px;
+}
+.slider_text a{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* <!-- slider section end --> */
+
+/* <!-- service section start --> */
+.service_title{
+    padding: 40px;
+}
+.service_title h2{
+    font-size: 60px;
+    padding: 30px;
+    color: rgb(19, 17, 17);
+}
+.service_title p{
+    color: gray;
+}
+/* service item */
+.service_item{
+    border-bottom: 4px solid #22c3a3;
+}
+.service_type{
+   width: 25%;
+   padding-bottom: 80px;
+}
+span{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    color: #0dbf9b;
+   
+}
+.service_type h2{
+    color: rgb(42, 38, 38);
+    text-align: center;
+    padding: 20px;
+}
+.service_type p{
+    text-align: center;
+    color: #514b4b;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+    /* <!-- service section end --> */
+
+    /* <!-- about section start --> */
+    .about_tilte{
+        padding: 70px;
+    }
+    .about_tilte h2{
+        font-size: 45px;
+        padding: 15px;
+        font: 300;
+    }
+    .about_tilte p{
+        width: 850px;
+        margin: auto;
+        color: gray;
+    }
+
+
+    .about_item_right{
+        width: 50%;
+    }
+    .right_text {
+        padding-left: 40px;
+    }
+    .right_text h2{
+        color: rgb(128, 123, 123);
+        padding: 15px;
+    }
+    .right_text p{
+        text-align: justify;
+        color: rgb(129, 126, 126);
+    }
+
+    .about_item_left{
+        width: 50%;
+    }
+    .about_item_left img{
+        width: 100%;
+    }
+    /* <!-- about section end --> */
+
+    /* <!-- contact section start --> */
+.contact_title{
+    padding: 70px;
+}
+.contact_title h2{
+    font-size: 45px;
+    padding: 22px;
+}
+.contact_title p{
+    width: 850px;
+    margin: auto;
+    color: rgb(42, 38, 38);
+}
+.location{
+    width: 33%;
+}
+.contact_way{
+    padding-bottom: 30px;
+}
+.main_div_contact{
+    margin-top: 60px;
+    background: #f6f6f6;
+}
+
+    /* <!-- contact section end --> */
+
+    /* <!-- Footer top section start --> */
+    .footer_top{
+        background: #0dbf9b;
+    }
+    .footer_top ul{
+        text-align: center;
+        list-style: none;
+    }
+    .footer_top ul li{
+        text-decoration: none;
+        display: inline-block;
+    }
+    .footer_top ul li a{
+        display: inline-block;
+        color: white;
+        padding: 30px;
+        font-size: 35px;
+    }
+    /* <!-- Footer top section end --> */
+    /* <!-- footer bottom start  --> */
+        .footer_bottom {
+            background: rgb(27, 25, 25);
+        }
+    .footer_bottom p{
+        text-align: center;
+        color: rgb(128, 120, 120);
+        font-size: 20px;
+        padding: 15px;
+    }
+
+    /* <!-- footer bottom end --> */
